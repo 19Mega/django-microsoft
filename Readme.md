@@ -1,5 +1,6 @@
 # Como ejecutar proyecto Django
 
+
 ## En powershell: 
 - Crear entorno virtual:
 python -m venv venv
